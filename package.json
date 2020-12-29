@@ -1,8 +1,13 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Elissavet Triantafyllopoulou",
+	"description": "FreeCodeCamp APIS and Microservices Certification npm Solutions",
+	"keywords": [ "freecodecamp", "npm", "solutions" ],
+	"license": "MIT",
+	"version": "0.0.1",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "~2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
